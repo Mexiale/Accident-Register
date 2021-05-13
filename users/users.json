@@ -1,0 +1,51 @@
+[
+    {
+        "nb_victime": "1",
+        "lieu": "Axe Abidjan-Yamoussoukro",
+        "date": "2021-04-09",
+        "mise_en_cause": "Gros Camion",
+        "id": 1265848
+    },
+    {
+        "nb_victime": "3",
+        "lieu": "Autoroute du Nord",
+        "date": "2021-04-07",
+        "mise_en_cause": "UTB",
+        "id": 1853789
+    },
+    {
+        "nb_victime": "2",
+        "lieu": "Axe Ferke-Katiola",
+        "date": "2021-04-01",
+        "mise_en_cause": "AVS",
+        "id": 1242578
+    },
+    {
+        "nb_victime": "2",
+        "lieu": "Axe Ferke-Katiola",
+        "date": "2021-04-15",
+        "mise_en_cause": "UTB",
+        "id": 1224314
+    },
+    {
+        "nb_victime": "3",
+        "lieu": "Autoroute du Nord",
+        "date": "2021-04-08",
+        "mise_en_cause": "Personelle",
+        "id": 1431612
+    },
+    {
+        "nb_victime": "4",
+        "lieu": "Axe Abidjan-Yamoussoukro",
+        "date": "2021-01-09",
+        "mise_en_cause": "Chauffeur \u00eevre",
+        "id": 1808732
+    },
+    {
+        "nb_victime": "1",
+        "lieu": "Autoroute du Nord",
+        "date": "2020-12-06",
+        "mise_en_cause": "Chauffeur \u00eevre",
+        "id": 1498247
+    }
+]

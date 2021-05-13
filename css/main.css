@@ -1,0 +1,41 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+.btn,label{
+  font-weight: bold;
+}
+.label{
+  font-size: medium;
+}
+.form-card{
+  background-color: grey;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.unfound{
+ text-align: center;
+ font-weight: bold;
+ font-size: medium;
+}
+.table-content{
+ justify-content: center;
+ margin-left: 240px;
+}
+
+.h2{
+  text-align: center;
+  font-weight: bold;
+  color: darkkhaki;
+  border: 1px solid darkkhaki;
+  margin-bottom: 20px;
+  margin-left: 200px;
+}
+.add-btn
+{
+  margin-right:25px ;
+}
+.btn-content{
+  padding: 10px;
+}
